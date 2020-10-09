@@ -1,3 +1,6 @@
+# Edit
+Only work with Blender lesser than 2.7 because after the frame server has been removed from Blender
+
 # Blender with ffmpeg
 
 Encode vidéo from the Blender Frame server with ffmpeg in good quality
